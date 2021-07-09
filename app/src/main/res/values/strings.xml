@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mawaqeet</string>
+    <string name="fajr">Fajr: %1$s</string>
+    <string name="shrouk">Shrouk: %1$s</string>
+    <string name="zuhr">Zuhr: %1$s</string>
+    <string name="asr">Asr: %1$s</string>
+    <string name="maghrib">Maghrib: %1$s</string>
+    <string name="isha">Isha: %1$s</string>
+    <string name="altitudeMsl">Altitude (MSL): %1$s</string>
+    <string name="longitude">Longitude: %1$s</string>
+    <string name="latitude">Latitude: %1$s</string>
+    <string name="altitude">Altitude: %1$s</string>
+    <string name="timezone">Timezone: %1$s :: %2$s</string>
+    <string name="city">Address: %1$s</string>
+    <string name="gps_disable_note">GPS is disabled. Please enable it from the setting</string>
+</resources>

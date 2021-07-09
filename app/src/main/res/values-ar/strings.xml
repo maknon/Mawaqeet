@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مواقيت</string>
+    <string name="fajr">الفجر: %1$s</string>
+    <string name="shrouk">الشروق: %1$s</string>
+    <string name="zuhr">الظهر: %1$s</string>
+    <string name="asr">العصر: %1$s</string>
+    <string name="maghrib">المغرب: %1$s</string>
+    <string name="isha">العشاء: %1$s</string>
+    <string name="altitudeMsl">الارتفاع (مستوى سطح البحر): %1$s</string>
+    <string name="longitude">خط الطول: %1$s</string>
+    <string name="latitude">خط العرض: %1$s</string>
+    <string name="altitude">الارتفاع: %1$s</string>
+    <string name="timezone">الوحدة الزمنية: %1$s :: %2$s</string>
+    <string name="city">العنوان: %1$s</string>
+    <string name="gps_disable_note">جي بي اس معطل. قم بتفعيله من الإعدادات</string>
+</resources>
